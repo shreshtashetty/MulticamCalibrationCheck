@@ -10,7 +10,7 @@ from os import listdir
 from os.path import isfile, join
 import glob, os
 from utils import *
-j1import imageio
+import imageio
 
 out_dir = '.'
 # for idx in [0, 10, 20]:
