@@ -1,0 +1,9 @@
+.DS_Store
+*.so
+*.pyc
+*_pb2.py
+*.log
+*.png
+#*#*
+*.npy
+*.gif
